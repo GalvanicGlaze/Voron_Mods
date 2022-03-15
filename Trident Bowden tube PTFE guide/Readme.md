@@ -1,6 +1,6 @@
 # PTFE bowden tube guide for Trident
 
-<img src="image/tube guide.png">
+<img src="Images/Tube Guide.png">
 
 ## Required Hardware:
 *M3x8 Bolt and M3 T-nut
