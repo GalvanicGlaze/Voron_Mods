@@ -11,6 +11,8 @@ In my 350 build the PFTE tube kept getting caught so i made the long arm to keep
 
 ## Install
 
+The shorter arm works better so I recommend using it instead
+
 - Drill out bowden guide with 4mm drill bit for a perfect fit
 - Bolt mount to rear frame with M3x8 and tnut putting the lip at the top
 - Screw arm on with M5x10 (I use a 8mm and it works fine) into the plastic allowing the arm to still be able to swivel 
